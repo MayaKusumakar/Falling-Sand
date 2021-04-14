@@ -2,6 +2,8 @@
 
 Realistic simulator of certain entities in the world and some fantatical entities, and their reaction with other entities. Entities include: metal, sand, water, fish, acid, lava, shrinkers, obsideon, gas, fungi, fungi ghosts, and transporters. To use these entities, click on the button with the according name, then draw on the black screen on the left of the buttons.
 
+# Describtion of buttons:
+
 Metal:
 Metal is a grey substance that stays where it was built. 
 
